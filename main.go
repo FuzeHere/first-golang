@@ -1,4 +1,4 @@
-package main
+kage main
 
 import "fmt"
 
