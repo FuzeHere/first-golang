@@ -1,4 +1,4 @@
-age main
+kage main
 
 import "fmt"
 
