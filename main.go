@@ -1,4 +1,4 @@
- main
+e main
 
 import "fmt"
 
