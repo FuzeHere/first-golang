@@ -1,4 +1,4 @@
-kage main
+ckage main
 
 import "fmt"
 
