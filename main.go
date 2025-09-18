@@ -1,4 +1,4 @@
-ge main
+age main
 
 import "fmt"
 
